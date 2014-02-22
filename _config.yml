@@ -1,5 +1,0 @@
-markdown: rdiscount
-permalink: /:year/:month/:title/
-url: http://shiconghit.github.io/
-author: 石聪
-pygments: true

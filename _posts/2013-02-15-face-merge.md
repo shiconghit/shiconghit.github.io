@@ -45,7 +45,7 @@ Matlab中使用的命令是cp2tform，该函数由输入的两幅图像的对应
 
 ![Imgur](http://i.imgur.com/TlTmHd1.jpg)
 
-所有源代码以及测试程序我将上传至github。在此严正声明，所有照片仅仅供学习和研究使用！希望大家准守规则！
+所有源代码以及测试程序我将上传至github。在此严正声明，所有照片仅仅供学习和研究使用！希望大家准守规则！[资源链接](https://github.com/shiconghit/FaceMerge)
 
 
   

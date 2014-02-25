@@ -36,3 +36,5 @@ tags: [图片校正]
 ![Imgur](http://i.imgur.com/Q4kxB3u.jpg)
 
 ![Imgur](http://i.imgur.com/Icgvp1F.jpg)
+
+附：[资源链接](https://github.com/shiconghit/CameraPhotoCalibration.git)

@@ -19,6 +19,7 @@ tags: [脸融合]
 
 ![Imgur](http://i.imgur.com/ZfV5cu8.jpg)
 
+##过程
 我的思路是这样，首先还是要提取出人脸的特征点，重要的如眼睛的、鼻子、嘴的位置、脸型的轮廓等。如下图所示。
 
 ![Imgur](http://i.imgur.com/oAMVM77.jpg)
@@ -39,6 +40,7 @@ Matlab中使用的命令是cp2tform，该函数由输入的两幅图像的对应
 
 	MergeImg(ii,jj,kk) = double(MergeImg(ii,jj,kk))+ double(imgTrans(ii,jj,kk));
 
+##结果
 接下来就直接给结果啦，激动人心的时刻有木有！50张图片融合的结果。看看还是挺标致的哈。
 
 ![Imgur](http://i.imgur.com/TlTmHd1.jpg)
